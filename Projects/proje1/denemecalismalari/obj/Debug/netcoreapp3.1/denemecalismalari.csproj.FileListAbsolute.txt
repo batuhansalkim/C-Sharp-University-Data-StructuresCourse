@@ -1,0 +1,13 @@
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.exe
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.deps.json
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.runtimeconfig.json
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.runtimeconfig.dev.json
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.dll
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.pdb
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.csproj.AssemblyReference.cache
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.AssemblyInfoInputs.cache
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.AssemblyInfo.cs
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.csproj.CoreCompileInputs.cache
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.dll
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.pdb
+C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.genruntimeconfig.cache

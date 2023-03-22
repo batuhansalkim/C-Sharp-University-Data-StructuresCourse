@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "czDK2EqeO7PXl+1rXlnwSC0o1Q5gA4Z3EoDUKZQ1C2GWpN/pM3T/KWO8w1sZ5/tegoc0uwO7w/2JdxIzUzsKAg==",
+  "success": true,
+  "projectFilePath": "C:\\c#denemecalismalari\\denemecalismalari\\denemecalismalari\\denemecalismalari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batuh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
