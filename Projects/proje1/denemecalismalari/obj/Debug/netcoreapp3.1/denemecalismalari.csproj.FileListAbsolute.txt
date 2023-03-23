@@ -11,3 +11,16 @@ C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3
 C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.dll
 C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.pdb
 C:\c#denemecalismalari\denemecalismalari\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.genruntimeconfig.cache
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.exe
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.deps.json
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.runtimeconfig.json
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.runtimeconfig.dev.json
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.dll
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\bin\Debug\netcoreapp3.1\denemecalismalari.pdb
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.AssemblyInfoInputs.cache
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.AssemblyInfo.cs
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.dll
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.pdb
+C:\Users\batuh\OneDrive\Belgeler\GitHub\C-Sharp-University-Data-StructuresCourse\Projects\proje1\denemecalismalari\obj\Debug\netcoreapp3.1\denemecalismalari.genruntimeconfig.cache

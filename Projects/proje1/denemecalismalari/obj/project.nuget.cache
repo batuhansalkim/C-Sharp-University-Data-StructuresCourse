@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "czDK2EqeO7PXl+1rXlnwSC0o1Q5gA4Z3EoDUKZQ1C2GWpN/pM3T/KWO8w1sZ5/tegoc0uwO7w/2JdxIzUzsKAg==",
+  "dgSpecHash": "gfF7Avmtn4G4qFny2VQ2W1gYkuc1Oc6xNHZ4P/WqEggit9uk39mTTrZqj4k5E3pxWYheAepEtR2I4Ht0mVQ2xw==",
   "success": true,
-  "projectFilePath": "C:\\c#denemecalismalari\\denemecalismalari\\denemecalismalari\\denemecalismalari.csproj",
+  "projectFilePath": "C:\\Users\\batuh\\OneDrive\\Belgeler\\GitHub\\C-Sharp-University-Data-StructuresCourse\\Projects\\proje1\\denemecalismalari\\denemecalismalari.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batuh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],

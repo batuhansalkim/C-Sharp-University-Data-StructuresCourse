@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c#denemecalismalari\\denemecalismalari\\denemecalismalari\\denemecalismalari.csproj",
+      "projectUniqueName": "C:\\Users\\batuh\\OneDrive\\Belgeler\\GitHub\\C-Sharp-University-Data-StructuresCourse\\Projects\\proje1\\denemecalismalari\\denemecalismalari.csproj",
       "projectName": "denemecalismalari",
-      "projectPath": "C:\\c#denemecalismalari\\denemecalismalari\\denemecalismalari\\denemecalismalari.csproj",
+      "projectPath": "C:\\Users\\batuh\\OneDrive\\Belgeler\\GitHub\\C-Sharp-University-Data-StructuresCourse\\Projects\\proje1\\denemecalismalari\\denemecalismalari.csproj",
       "packagesPath": "C:\\Users\\batuh\\.nuget\\packages\\",
-      "outputPath": "C:\\c#denemecalismalari\\denemecalismalari\\denemecalismalari\\obj\\",
+      "outputPath": "C:\\Users\\batuh\\OneDrive\\Belgeler\\GitHub\\C-Sharp-University-Data-StructuresCourse\\Projects\\proje1\\denemecalismalari\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\batuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
