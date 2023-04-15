@@ -2,33 +2,49 @@
 
 namespace Algoritma_example
 {
+    enum Islemler
+    {
+        Toplanma = 1,
+        Cikarma = 2,
+        Carpma = 3,
+        Bolme = 4
+    }
+    
     class Program
     {
-        enum Islemler
-        {
-            Toplanma=1,
-            Cikarma=2,
-            Carpma=3,
-            Bolme=4
-        }
+       
         static void Main(string[] args)
         {
+            int i= 0;
+            while (i<10)
+            {
+                
+                Console.WriteLine(i);
+                i++;
+                
+            }
+           
+            
+        }
+        private static void HesapMak()
+        {
+
             int A = 100;
             int B = 20;
-            Islemler secim = (Islemler) (new Random().Next(1,4));
+            Islemler secim = (Islemler)(new Random().Next(1, 4));
             switch (secim)
             {
                 case Islemler.Toplanma:
                     Console.WriteLine($"{A} + {B} = {A + B}");
                     break;
                 case Islemler.Cikarma:
-                    Console.WriteLine($"{A} - {B} = {A-B}");
+                    Console.WriteLine($"{A} - {B} = {A - B}");
                     break;
                 case Islemler.Carpma:
-                    Console.WriteLine($"{A} * {B} = {A*B}");
+                    Console.WriteLine($"{A} * {B} = {A * B}");
                     break;
                 case Islemler.Bolme:
-                    Console.WriteLine($"{A} / {B}  ={A/B}");
+                    Console.WriteLine($"{A} / {B}  ={A / B}");
                     break;
                 default:
                     Console.WriteLine("\aGeçersiz İslem!");
