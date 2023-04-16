@@ -15,16 +15,30 @@ namespace Algoritma_example
        
         static void Main(string[] args)
         {
-            int i= 0;
-            while (i<10)
+            Console.WriteLine("dizi boyutunu giriniz :");
+            int boyut = Convert.ToInt32(Console.ReadLine());
+            int[] sayilar = new int[boyut];
+
+            var r = new Random();
+
+            for (int i = 0; i < sayilar.Length; i++)
+                sayilar[i] = r.Next(1, 10);
+
+            foreach (int sayi in sayilar)
             {
-                
+                Console.WriteLine(sayi);
+            }
+        }
+        private static void Dongu()
+        {
+            int i = 0;
+            while (i < 10)
+            {
+
                 Console.WriteLine(i);
                 i++;
-                
+
             }
-           
-            
         }
         private static void HesapMak()
         {
