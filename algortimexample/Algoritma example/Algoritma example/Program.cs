@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Algoritma_example
 {
@@ -15,19 +16,17 @@ namespace Algoritma_example
        
         static void Main(string[] args)
         {
-            Console.WriteLine("dizi boyutunu giriniz :");
-            int boyut = Convert.ToInt32(Console.ReadLine());
-            int[] sayilar = new int[boyut];
+            var arrayList = new ArrayList();
+            int[] sayilar = new int[] { 10, 11, 12 };
+            arrayList.AddRange(sayilar);
 
-            var r = new Random();
 
-            for (int i = 0; i < sayilar.Length; i++)
-                sayilar[i] = r.Next(1, 10);
-
-            foreach (int sayi in sayilar)
+            foreach (var batu in arrayList)
             {
-                Console.WriteLine(sayi);
+                Console.WriteLine($"{batu}");
             }
+            Console.ReadKey();
+            
         }
         private static void Dongu()
         {
