@@ -16,17 +16,13 @@ namespace Algoritma_example
        
         static void Main(string[] args)
         {
-            var arrayList = new ArrayList();
-            int[] sayilar = new int[] { 10, 11, 12 };
-            arrayList.AddRange(sayilar);
-
-
-            foreach (var batu in arrayList)
-            {
-                Console.WriteLine($"{batu}");
-            }
+            int buyuk =  Karsilastir(9,3);
+            Console.WriteLine(buyuk);
             Console.ReadKey();
-            
+        }
+        public static int Karsilastir(int A, int B)
+        {
+            return A > B ? A : B;
         }
         private static void Dongu()
         {
